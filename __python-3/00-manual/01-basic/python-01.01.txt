@@ -1,0 +1,109 @@
+
+## python-3 ##
+
+01. python-3
+02. print()
+
+
+.
+.
+01. python-3
+
+- Python is a programming language: 
+
+- Python can be used on a server to create 
+-- web applications. 
+-- scripting.
+-- scientific computing.
+-- artificial intelligence.
+
+-- enter python terminal environment and then using exit() to exit python.
+--- example:
+    $ python3.9  <enter>
+   
+    >>> exit();
+
+--- example: print "hello world" inside python terminal environment.
+    $ python3.9 <enter>
+    >>> print ('hello world')
+    hello world
+
+-- python3.9 command inside terminal
+--- help()
+
+>>> help ()
+
+Welcome to Python 3.9's help utility!
+
+If this is your first time using Python, you should definitely check out
+the tutorial on the Internet at https://docs.python.org/3.9/tutorial/.
+
+Enter the name of any module, keyword, or topic to get help on writing
+Python programs and using Python modules.  To quit this help utility and
+return to the interpreter, just type "quit".
+
+To get a list of available modules, keywords, symbols, or topics, type
+"modules", "keywords", "symbols", or "topics".  Each module also comes
+with a one-line summary of what it does; to list the modules whose name
+or summary contain a given string such as "spam", type "modules spam".
+
+help> modules
+help> modules spam
+
+help> keywords
+
+help> symbols
+
+help> topics
+   
+help> if
+
+
+
+
+
+
+.
+.
+02. print()
+
+-- "print()" display data to the console.
+
+--- example: print() 
+
+    print ('hello world')
+    print ("hello jron")
+
+--- example: print() 
+    <02.01-print.py>
+
+-- run python program
+
+$ python3 02.01-print.py <enter>
+
+.
+.
+03. math - calculates
+
+- Basic arithmetic operations:
+-- Addition <+>
+-- subtraction <->
+-- multiplication <*>
+-- division </>
+-- modulo (%), 
+-- power of <**> 
+-- root 
+
+
+--- example: arithmetic operations
+
+
+browser open tab
+https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp
+
+https://www.datacamp.com/community/tutorials/python-operators-tutorial?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=229765585183&utm_targetid=aud-517318242147:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1008002&gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxl3LhJXMiR11XEOLvYEXRmL_EjbkCfKv49y0AKMD7kOpS26q4tLU8aArvTEALw_wcB
+
+
+
+
+

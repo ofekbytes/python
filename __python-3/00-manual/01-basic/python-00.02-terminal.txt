@@ -1,0 +1,159 @@
+
+
+---[python terminal]----------------------
+
+
+-- enter python terminal environment and then using exit() to exit python.
+--- example:
+    $ python3.9  <enter>
+    >>> exit();
+
+
+-- python3.9 command inside terminal
+--- help()
+
+
+>>> help ()
+
+    Welcome to Python 3.9's help utility!
+
+    If this is your first time using Python, you should definitely check out
+    the tutorial on the Internet at https://docs.python.org/3.9/tutorial/.
+
+    Enter the name of any module, keyword, or topic to get help on writing
+    Python programs and using Python modules.  To quit this help utility and
+    return to the interpreter, just type "quit".
+
+    To get a list of available modules, keywords, symbols, or topics, type
+    "modules", "keywords", "symbols", or "topics".  Each module also comes
+    with a one-line summary of what it does; to list the modules whose name
+    or summary contain a given string such as "spam", type "modules spam".
+
+
+
+    help>
+    help> keywords
+    
+    Here is a list of the Python keywords.  Enter any keyword to get more help.
+
+    False               break               for                 not
+    None                class               from                or
+    True                continue            global              pass
+    __peg_parser__      def                 if                  raise
+    and                 del                 import              return
+    as                  elif                in                  try
+    assert              else                is                  while
+    async               except              lambda              with
+    await               finally             nonlocal            yield
+
+
+help> modules
+
+    Please wait a moment while I gather a list of all available modules...
+
+    INFO:root:Generating grammar tables from /usr/lib/python3.9/lib2to3/Grammar.txt
+    INFO:root:Generating grammar tables from /usr/lib/python3.9/lib2to3/PatternGrammar.txt
+    AptUrl              _xxtestfuzz         gtweak              reprlib
+    CommandNotFound     _zoneinfo           gzip                requests
+    DistUpgrade         abc                 hashlib             requests_unixsocket
+    HweSupportStatus    aifc                heapq               resource
+    LanguageSelector    antigravity         hmac                rlcompleter
+    MySQLdb             apport              html                runpy
+    NvidiaDetector      apport_python_hook  http                sched
+    PIL                 apt                 httplib2            secrets
+    Quirks              aptdaemon           idna                secretstorage
+    UbuntuDrivers       aptsources          imaplib             select
+    UpdateManager       argparse            imghdr              selectors
+    __future__          array               imp                 shelve
+    _abc                ast                 importlib           shlex
+    _aix_support        asynchat            inspect             shutil
+    _ast                asyncio             io                  signal
+    _asyncio            asyncore            ipaddress           simplejson
+    _bisect             atexit              itertools           site
+    _blake2             audioop             janitor             sitecustomize
+    _bootlocale         base64              json                six
+    _bootsubprocess     bcrypt              jwt                 smtpd
+    _bz2                bdb                 keyring             smtplib
+    _codecs             binascii            keyword             sndhdr
+    _codecs_cn          binhex              language_support_pkgs socket
+    _codecs_hk          bisect              launchpadlib        socketserver
+    _codecs_iso2022     blinker             lib2to3             softwareproperties
+    _codecs_jp          builtins            libfuturize         speechd
+    _codecs_kr          bz2                 libpasteurize       speechd_config
+    _codecs_tw          cProfile            linecache           spwd
+    _collections        cairo               locale              sqlite3
+    _collections_abc    calendar            lockfile            sre_compile
+    _compat_pickle      certifi             logging             sre_constants
+    _compression        cgi                 louis               sre_parse
+    _contextvars        cgitb               lsb_release         ssl
+    _crypt              chardet             lzma                stat
+    _csv                chunk               macaroonbakery      statistics
+    _ctypes             click               mailbox             string
+    _ctypes_test        cmath               mailcap             stringprep
+    _curses             cmd                 mako                struct
+    _curses_panel       code                markupsafe          subprocess
+    _datetime           codecs              marshal             sunau
+    _dbm                codeop              math                symbol
+    _decimal            collections         mimetypes           symtable
+    _elementtree        colorama            mmap                sys
+    _functools          colorsys            modulefinder        sysconfig
+    _gdbm               compileall          monotonic           syslog
+    _hashlib            concurrent          multiprocessing     systemd
+    _heapq              configparser        nacl                tabnanny
+    _imp                contextlib          netrc               tarfile
+    _io                 contextvars         nis                 telnetlib
+    _json               copy                nntplib             tempfile
+    _locale             copyreg             ntpath              termios
+    _lsprof             crypt               nturl2path          test
+    _lzma               cryptography        numbers             textwrap
+    _markupbase         csv                 oauthlib            this
+    _md5                ctypes              olefile             threading
+    _multibytecodec     cupshelpers         opcode              time
+    _multiprocessing    curses              operator            timeit
+    _opcode             dataclasses         optparse            token
+    _operator           datetime            orca                tokenize
+    _osx_support        dateutil            os                  trace
+    _peg_parser         dbm                 ossaudiodev         traceback
+    _pickle             dbus                paramiko            tracemalloc
+    _posixshmem         deb822              parser              tty
+    _posixsubprocess    debconf             past                turtle
+    _py_abc             debian              pathlib             types
+    _pydecimal          debian_bundle       pdb                 typing
+    _pyio               decimal             pexpect             uaclient
+    _queue              defer               pickle              ufw
+    _random             difflib             pickletools         unicodedata
+    _sha1               dis                 pipes               unittest
+    _sha256             distro              pkg_resources       uno
+    _sha3               distro_info         pkgutil             unohelper
+    _sha512             distutils           platform            urllib
+    _signal             doctest             plistlib            urllib3
+    _sitebuiltins       duplicity           poplib              usbcreator
+    _socket             email               posix               uu
+    _sqlite3            encodings           posixpath           uuid
+    _sre                entrypoints         pprint              venv
+    _ssl                enum                problem_report      wadllib
+    _stat               errno               profile             warnings
+    _statistics         fasteners           pstats              wave
+    _string             faulthandler        pty                 weakref
+    _strptime           fcntl               ptyprocess          webbrowser
+    _struct             filecmp             pwd                 wsgiref
+    _symtable           fileinput           py_compile          xdg
+    _sysconfigdata__linux_x86_64-linux-gnu fnmatch             pyatspi             xdrlib
+    _sysconfigdata__x86_64-linux-gnu formatter           pyclbr              xkit
+    _testbuffer         fractions           pydoc               xml
+    _testcapi           ftplib              pydoc_data          xmlrpc
+    _testimportmultiple functools           pyexpat             xxlimited
+    _testinternalcapi   future              pygtkcompat         xxsubtype
+    _testmultiphase     gc                  pymacaroons         yaml
+    _thread             genericpath         pyrfc3339           zipapp
+    _threading_local    getopt              pytz                zipfile
+    _tracemalloc        getpass             queue               zipimport
+    _uuid               gettext             quopri              zlib
+    _warnings           gi                  random              zoneinfo
+    _weakref            glob                re                  
+    _weakrefset         graphlib            readline            
+    _xxsubinterpreters  grp                 reportlab           
+
+    Enter any module name to get more help.  Or, type "modules spam" to search
+    for modules whose name or summary contain the string "spam".
+

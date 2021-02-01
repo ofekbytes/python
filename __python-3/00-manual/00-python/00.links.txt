@@ -1,0 +1,33 @@
+
+
+---[python links]---
+
+
+
+----[manual]----------------------
+
+### python basic ###
+https://www.w3schools.com/python/
+
+### python mysql ###
+https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+
+### python mongodb ###
+https://www.w3schools.com/python/python_mongodb_getstarted.asp
+
+
+### Python Examples ###
+https://www.w3schools.com/python/python_examples.asp
+
+
+----[youtube]---------------------
+
+### Python for Everybody - Full University Python Course ###
+https://youtu.be/8DvywoWv6fI
+
+
+----[temp]------------------------
+
+
+
